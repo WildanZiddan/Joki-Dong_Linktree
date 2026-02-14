@@ -20,16 +20,16 @@ const App = () => {
   ];
 
   const rulesData = [
-    "Detail & Deadline tugas/project wajib jelas di awal.",
-    "DP minimal 50% untuk mulai pengerjaan.",
-    "First Come, First Serve.",
-    "Revisi maksimal 2x (Minor), Lebih dari itu = tambahan biaya.",
-    "Penyrehan file dikirim setelah pelunasan 100%.",
-    "No Rush Tanpa Fee Tambahan."
+    "Detail & Deadline tugas/project wajib jelas di awal",
+    "DP minimal 50% untuk mulai pengerjaan",
+    "First Come, First Serve",
+    "Revisi maksimal 2x (Minor), Lebih dari itu = tambahan biaya",
+    "Penyrehan file dikirim setelah pelunasan 100%",
+    "No Rush Tanpa Fee Tambahan"
   ];
 
   return (
-    <div className="min-h-screen bg-[#0f172a] text-slate-200 font-sans selection:bg-blue-500/30">
+    <div className="min-h-screen bg-[#091216] text-zinc-200 font-sans selection:bg-teal-500/30">
       <div className="max-w-md mx-auto px-6 py-12 flex flex-col items-center">
         
         <Profile 
