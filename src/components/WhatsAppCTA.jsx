@@ -8,7 +8,8 @@ const WhatsAppCTA = ({ phone, text }) => {
       href={url}
       target="_blank"
       rel="noreferrer"
-      className="w-120 bg-blue-600 hover:bg-blue-500 text-white font-bold py-4 rounded-2xl flex items-center justify-center gap-3 transition-all transform hover:scale-[1.02] active:scale-[0.98] shadow-lg shadow-blue-900/20 mb-6"
+      className="w-full max-w-[30rem]
+ bg-blue-600 hover:bg-blue-500 text-white font-bold py-4 rounded-2xl flex items-center justify-center gap-3 transition-all transform hover:scale-[1.02] active:scale-[0.98] shadow-lg shadow-blue-900/20 mb-6"
     >
       <MessageCircle size={22} />
       Order via WhatsApp
