@@ -24,7 +24,7 @@ const App = () => {
     "DP minimal 50% untuk mulai pengerjaan",
     "First Come, First Serve",
     "Revisi maksimal 2x (Minor), Lebih dari itu = tambahan biaya",
-    "Penyrehan file dikirim setelah pelunasan 100%",
+    "Penyerehan file dikirim setelah pelunasan 100%",
     "No Rush Tanpa Fee Tambahan"
   ];
 
