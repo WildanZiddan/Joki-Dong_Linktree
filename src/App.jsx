@@ -22,10 +22,10 @@ const App = () => {
   const rulesData = [
     "Detail & Deadline tugas/project wajib jelas di awal.",
     "DP minimal 50% untuk mulai pengerjaan.",
-    "First Come, First Serve",
+    "First Come, First Serve.",
     "Revisi maksimal 2x (Minor), Lebih dari itu = tambahan biaya.",
-    "File dikirim setelah pelunasan 100%.",
-    "No Rush Tanpa Fee Tambahan"
+    "Penyrehan file dikirim setelah pelunasan 100%.",
+    "No Rush Tanpa Fee Tambahan."
   ];
 
   return (
