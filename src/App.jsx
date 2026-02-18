@@ -43,16 +43,16 @@ const App = () => {
     {
       title: "📊 Microsoft Office",
       items: [
-        { label: "Word", price: "Start from 15k" },
+        { label: "Word", price: "Start from 5k" },
         { label: "Excel", price: "Start from 20k" },
-        { label: "PPT", price: "Start from 15k" },
+        { label: "PPT", price: "Start from 2k" },
       ]
     },
     {
       title: "🎨 Design & UI/UX",
       items: [
         { label: "UI/UX (per screen)", price: "Start from 20k" },
-        { label: "Poster / Infografis", price: "Start from 20k" },
+        { label: "Poster / Infografis", price: "Start from 10k" },
       ]
     },
     {
