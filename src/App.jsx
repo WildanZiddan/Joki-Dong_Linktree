@@ -34,7 +34,7 @@ const App = () => {
       title: "💻 Coding / Development",
       items: [
         { label: "Landing Page", price: "Start from 75k" },
-        { label: "Web CRUD (Laravel/etc)", price: "Start from 200k" },
+        { label: "Web CRUD", price: "Start from 200k" },
         { label: "Fix Bug / Error", price: "Start from 30k" },
         { label: "Mobile App", price: "Start from 150k" },
         { label: "Desktop App", price: "Start from 150k" }
